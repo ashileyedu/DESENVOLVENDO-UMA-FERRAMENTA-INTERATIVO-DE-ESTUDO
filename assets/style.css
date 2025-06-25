@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet ;
+    background-color: bisque ;
     font-family: Bay Jamjuree;
 }
 
@@ -7,15 +7,10 @@ body{
 display: flex;
 }
 
+.cartao {
+    margin: 1rem 1rem
 
-
-
-
-
-
-
-
-
+}
 
 
 footer{
